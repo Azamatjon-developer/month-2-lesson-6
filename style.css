@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.wrapper-card{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+
+
+
+}
+.wrapper-info h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+
+}
+.wrapper-info-subtitle{
+    text-align: center;
+    padding: 20px;
+}
+.wrapper-left{
+    width: 50%;
+    background: #aea3a3;
+}
+
+.wrapper-left h2{
+    padding: 10px 10px;
+    font-size: 32px;
+
+}
+
+
+
+
+.wrapper-left p{
+    padding: 10px 10px;
+    opacity: 0.6;
+
+}
+
+.wrapper-left img{
+    width: 50%;
+}
+.wrapper-right{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items:start;
+    vertical-align: start;
+
+}
+
+
+.wrapper-title{
+    font-size: 18px;
+    font-family: sans-serif;
+    margin: 20px 0;
+
+}
+
+.wrapper-jobs{
+ text-align: start;
+ margin-bottom: 15px;
+    
+}
+.wrapper-jobs{
+   text-align: start;
+}
